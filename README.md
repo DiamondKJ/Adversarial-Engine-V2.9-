@@ -2,7 +2,7 @@
 
 **Version:** 2.9  
 **Status:** Research & Development (Act I Complete)  
-**Project Lead:** [Your Name/Handle]
+**Project Lead:** Kaustubh Joshi
 
 ---
 
