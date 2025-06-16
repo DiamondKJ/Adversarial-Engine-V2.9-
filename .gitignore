@@ -1,0 +1,22 @@
+# Python virtual environment
+ace_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / OS specific
+.DS_Store
+.vscode/
+
+# --- DATA FOLDERS TO IGNORE ---
+# These folders contain generated data and should not be committed.
+# The scripts to generate them ARE committed.
+armory/
+optimizer_results/
+ragnarok_victories/
+overlord_victories/
+endurance_test_victories/
+success_cache/
+uploads/
+static/

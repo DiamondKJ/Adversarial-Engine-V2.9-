@@ -1,0 +1,2 @@
+optimizer_results/**/*.png filter=lfs diff=lfs merge=lfs -text
+ragnarok_victories/**/*.png filter=lfs diff=lfs merge=lfs -text
